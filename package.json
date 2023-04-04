@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/shannonmoeller/handlebars-wax",
   "dependencies": {
-    "require-glob": "^3.2.0"
+    "require-glob": "^4.1.0"
   },
   "devDependencies": {
     "ava": "^0.25.0",
